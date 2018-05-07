@@ -1,0 +1,37 @@
+.Search {
+    display: flex;
+    background-color: aqua;
+}
+
+.SearchContinent {
+    margin-left: 20px;
+    width: 35%
+}
+
+.SearchCountry {
+    width: 100%;
+    text-align: center;
+    width: 30%;
+}
+
+  .selectBox select {
+    width: 100%;
+    font-weight: bold;
+  }
+  
+  .countryLabel {
+    display: block;
+  }
+  
+  .countryLabel:hover {
+    background-color: #1e90ff;
+  }
+
+  .Button {
+      clear: both;
+  }
+
+  .Flag {
+    width: 35%;
+    text-align: center;
+}
